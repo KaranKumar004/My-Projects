@@ -8,7 +8,7 @@ Here's a list of the projects included in this repository:
 ### Project 1
 
 - Churn Analysis of Telecom Customers: Performed Churn Analysis using the Random Forest algorithm to identify customer attrition patterns, enabling the implementation of targeted retention strategies in the telecom Industry
-- 
+  
 ### Project 2
 
 - REGRESSION-Car Price Prediction:
