@@ -1,1 +1,0 @@
-The "code" folder contains all the necessary code files for the project. You can explore the code and run the program by following the instructions provided in the code files or the accompanying documentation.
